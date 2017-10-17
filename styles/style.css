@@ -7,10 +7,13 @@ div{
 }
 .blue{
   background-color: blue;
+  display: inline-block;
 }
 .white{
   background-color: white;
+  display: inline-block;
 }
 .red{
   background-color: red;
+  display: inline-block;
 }
